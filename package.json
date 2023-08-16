@@ -1,5 +1,5 @@
 {
-  "name": "mylib2",
+  "name": "@WonderBoy3298/octo-libray-",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -24,5 +24,8 @@
   "files": [
     "dist"
   ],
-  "types": "dist/index.d.ts"
+  "types": "dist/index.d.ts",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/WonderBoy3298"
+  }
 }
